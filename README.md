@@ -6,7 +6,7 @@ Aqui eu armazeno os dados da rede neural treinada pelo Google Codelabs e retrein
 
 ### Comandos necessários para o retraining
 ```
-python retrain.py --image_dir YOUR_GENERAL_IMAGE_PATH_HERE
+python scripts/retrain.py --image_dir YOUR_GENERAL_IMAGE_PATH_HERE
 ```
 ```
 IMAGE_SIZE=224 
