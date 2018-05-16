@@ -1,4 +1,4 @@
-## Pokédex ![pikachu](https://img.pokemondb.net/sprites/black-white/normal/pikachu-f.png)
+## Pokédex ![squirtle](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpwMxsbG93vd85u1aSSKu_HwwRlwzEr1299ZtmebIhv1yyE5CUKw)
 
 ### Classificação de imagens com Transfer Learning | TensorFlow for Poets 2
 
