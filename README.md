@@ -1,4 +1,4 @@
-## Pokédex ![squirtle](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpwMxsbG93vd85u1aSSKu_HwwRlwzEr1299ZtmebIhv1yyE5CUKw)
+## Pokédex ![bulba](https://i.gifer.com/WnES.gif | width=20)
 
 ### Classificação de imagens com Transfer Learning | TensorFlow for Poets 2
 
