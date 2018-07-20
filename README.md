@@ -6,7 +6,7 @@ Acesse o [repositório original](https://github.com/googlecodelabs/tensorflow-fo
 
 Aqui eu armazeno os dados da rede neural treinada pelo Google Codelabs e retreinada por mim.
 
-### Comandos necessários para o retraining
+### Comandos de retraining e classificação
 ```
 IMAGE_SIZE=224 
 ARCHITECTURE="mobilenet_0.50_${IMAGE_SIZE}"
