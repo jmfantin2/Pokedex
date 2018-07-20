@@ -5,6 +5,7 @@
 Acesse o [repositório original](https://github.com/googlecodelabs/tensorflow-for-poets-2) para informações oficiais.
 
 Aqui eu armazeno os dados da rede neural treinada pelo Google Codelabs e retreinada por mim.
+O transfer learning e seus requisitos são melhores explicados [nesse link](https://medium.com/@nikhilreddy_13708/how-to-build-an-insanely-good-image-classifier-in-under-10-minutes-ea3edf411bc8).
 
 ### Comandos de retraining e classificação
 ```
