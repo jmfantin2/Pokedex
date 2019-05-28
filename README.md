@@ -1,4 +1,4 @@
-## Pokédex <img src="https://i.gifer.com/WnES.gif" width="40" height="40" />
+## Pokédex <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/bulbasaur.gif" width="40" height="40" />
 
 ### Classificação de imagens com Transfer Learning | TensorFlow for Poets 2
 
